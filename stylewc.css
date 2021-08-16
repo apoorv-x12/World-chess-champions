@@ -1,6 +1,13 @@
+
+/* Always keep below code  inside your css file*/
+* {
+  box-sizing: border-box;
+}
+
 body{
   font-size: 20px;
   background-color: pink;
+
 }
 h1{
 background-color: yellow;
